@@ -1,4 +1,4 @@
 # Nombre del Proyecto
 Chucheland
-# Descripción
+## Descripción
 Videojuego de cazar chuches
